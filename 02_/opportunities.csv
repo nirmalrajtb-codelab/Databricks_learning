@@ -1,0 +1,101 @@
+opportunity_id,account_id,opportunity_name,stage,amount,close_date,sales_rep
+3001,2003,Opportunity_001,Closed Won,321450.59,2026-04-01,Rep_1
+3002,2032,Opportunity_002,Proposal,809355.95,2026-04-03,Rep_2
+3003,2010,Opportunity_003,Closed Lost,962477.8,2026-04-05,Rep_3
+3004,2074,Opportunity_004,Qualification,792113.42,2026-04-07,Rep_4
+3005,2083,Opportunity_005,Closed Won,693654.63,2026-04-09,Rep_5
+3006,2034,Opportunity_006,Qualification,526087.66,2026-04-11,Rep_6
+3007,2097,Opportunity_007,Negotiation,95838.16,2026-04-13,Rep_7
+3008,2087,Opportunity_008,Prospecting,958589.09,2026-04-15,Rep_8
+3009,2055,Opportunity_009,Closed Lost,760808.49,2026-04-17,Rep_9
+3010,2092,Opportunity_010,Qualification,642559.89,2026-04-19,Rep_10
+3011,2032,Opportunity_011,Prospecting,761445.49,2026-04-21,Rep_1
+3012,2050,Opportunity_012,Closed Won,726862.3,2026-04-23,Rep_2
+3013,2007,Opportunity_013,Prospecting,640859.26,2026-04-25,Rep_3
+3014,2093,Opportunity_014,Closed Lost,980771.03,2026-04-27,Rep_4
+3015,2008,Opportunity_015,Qualification,904330.17,2026-04-29,Rep_5
+3016,2065,Opportunity_016,Negotiation,650198.27,2026-05-01,Rep_6
+3017,2057,Opportunity_017,Closed Won,696243.46,2026-05-03,Rep_7
+3018,2067,Opportunity_018,Qualification,61079.85,2026-05-05,Rep_8
+3019,2088,Opportunity_019,Closed Lost,673218.29,2026-05-07,Rep_9
+3020,2087,Opportunity_020,Closed Won,53723.78,2026-05-09,Rep_10
+3021,2059,Opportunity_021,Proposal,592381.12,2026-05-11,Rep_1
+3022,2072,Opportunity_022,Prospecting,999359.96,2026-05-13,Rep_2
+3023,2054,Opportunity_023,Closed Lost,560248.52,2026-05-15,Rep_3
+3024,2067,Opportunity_024,Proposal,478478.02,2026-05-17,Rep_4
+3025,2051,Opportunity_025,Qualification,319726.31,2026-05-19,Rep_5
+3026,2097,Opportunity_026,Negotiation,129317.35,2026-05-21,Rep_6
+3027,2092,Opportunity_027,Closed Won,733713.43,2026-05-23,Rep_7
+3028,2008,Opportunity_028,Prospecting,200673.04,2026-05-25,Rep_8
+3029,2034,Opportunity_029,Closed Won,124129.2,2026-05-27,Rep_9
+3030,2035,Opportunity_030,Qualification,427545.03,2026-05-29,Rep_10
+3031,2096,Opportunity_031,Closed Won,797388.42,2026-05-31,Rep_1
+3032,2088,Opportunity_032,Prospecting,747613.9,2026-06-02,Rep_2
+3033,2078,Opportunity_033,Qualification,64333.79,2026-06-04,Rep_3
+3034,2032,Opportunity_034,Closed Won,460592.25,2026-06-06,Rep_4
+3035,2046,Opportunity_035,Negotiation,527210.23,2026-06-08,Rep_5
+3036,2016,Opportunity_036,Closed Lost,648101.18,2026-06-10,Rep_6
+3037,2068,Opportunity_037,Qualification,653665.68,2026-06-12,Rep_7
+3038,2037,Opportunity_038,Closed Lost,371050.28,2026-06-14,Rep_8
+3039,2054,Opportunity_039,Qualification,565070.42,2026-06-16,Rep_9
+3040,2085,Opportunity_040,Negotiation,486251.27,2026-06-18,Rep_10
+3041,2014,Opportunity_041,Closed Lost,886148.37,2026-06-20,Rep_1
+3042,2095,Opportunity_042,Proposal,534962.48,2026-06-22,Rep_2
+3043,2055,Opportunity_043,Prospecting,446621.84,2026-06-24,Rep_3
+3044,2048,Opportunity_044,Proposal,410440.6,2026-06-26,Rep_4
+3045,2082,Opportunity_045,Closed Won,576703.48,2026-06-28,Rep_5
+3046,2007,Opportunity_046,Negotiation,805937.21,2026-06-30,Rep_6
+3047,2074,Opportunity_047,Proposal,543017.48,2026-07-02,Rep_7
+3048,2007,Opportunity_048,Qualification,665038.62,2026-07-04,Rep_8
+3049,2033,Opportunity_049,Closed Won,740477.21,2026-07-06,Rep_9
+3050,2023,Opportunity_050,Closed Won,524966.43,2026-07-08,Rep_10
+3051,2085,Opportunity_051,Proposal,432548.89,2026-07-10,Rep_1
+3052,2019,Opportunity_052,Proposal,877898.72,2026-07-12,Rep_2
+3053,2019,Opportunity_053,Negotiation,423331.02,2026-07-14,Rep_3
+3054,2036,Opportunity_054,Prospecting,467323.42,2026-07-16,Rep_4
+3055,2029,Opportunity_055,Proposal,990437.9,2026-07-18,Rep_5
+3056,2060,Opportunity_056,Proposal,10235.15,2026-07-20,Rep_6
+3057,2082,Opportunity_057,Closed Lost,193618.18,2026-07-22,Rep_7
+3058,2002,Opportunity_058,Qualification,390124.25,2026-07-24,Rep_8
+3059,2001,Opportunity_059,Closed Lost,933264.01,2026-07-26,Rep_9
+3060,2047,Opportunity_060,Closed Lost,79329.41,2026-07-28,Rep_10
+3061,2069,Opportunity_061,Closed Won,19390.58,2026-07-30,Rep_1
+3062,2020,Opportunity_062,Prospecting,62157.0,2026-08-01,Rep_2
+3063,2011,Opportunity_063,Qualification,97657.98,2026-08-03,Rep_3
+3064,2002,Opportunity_064,Negotiation,47220.81,2026-08-05,Rep_4
+3065,2067,Opportunity_065,Negotiation,484983.51,2026-08-07,Rep_5
+3066,2087,Opportunity_066,Proposal,584949.64,2026-08-09,Rep_6
+3067,2012,Opportunity_067,Proposal,278970.1,2026-08-11,Rep_7
+3068,2020,Opportunity_068,Negotiation,404304.51,2026-08-13,Rep_8
+3069,2005,Opportunity_069,Proposal,100782.34,2026-08-15,Rep_9
+3070,2037,Opportunity_070,Prospecting,343006.76,2026-08-17,Rep_10
+3071,2038,Opportunity_071,Closed Lost,527294.0,2026-08-19,Rep_1
+3072,2094,Opportunity_072,Proposal,734949.09,2026-08-21,Rep_2
+3073,2009,Opportunity_073,Closed Won,13312.9,2026-08-23,Rep_3
+3074,2098,Opportunity_074,Proposal,472637.66,2026-08-25,Rep_4
+3075,2053,Opportunity_075,Qualification,304032.85,2026-08-27,Rep_5
+3076,2044,Opportunity_076,Prospecting,854293.6,2026-08-29,Rep_6
+3077,2099,Opportunity_077,Qualification,718397.78,2026-08-31,Rep_7
+3078,2086,Opportunity_078,Qualification,593217.45,2026-09-02,Rep_8
+3079,2024,Opportunity_079,Closed Won,284492.99,2026-09-04,Rep_9
+3080,2081,Opportunity_080,Prospecting,911235.71,2026-09-06,Rep_10
+3081,2074,Opportunity_081,Prospecting,54649.67,2026-09-08,Rep_1
+3082,2030,Opportunity_082,Prospecting,118372.92,2026-09-10,Rep_2
+3083,2059,Opportunity_083,Prospecting,397713.84,2026-09-12,Rep_3
+3084,2087,Opportunity_084,Prospecting,133193.18,2026-09-14,Rep_4
+3085,2096,Opportunity_085,Closed Won,956851.54,2026-09-16,Rep_5
+3086,2081,Opportunity_086,Proposal,800009.43,2026-09-18,Rep_6
+3087,2081,Opportunity_087,Qualification,266392.83,2026-09-20,Rep_7
+3088,2014,Opportunity_088,Prospecting,592668.69,2026-09-22,Rep_8
+3089,2009,Opportunity_089,Proposal,982507.21,2026-09-24,Rep_9
+3090,2040,Opportunity_090,Proposal,885356.99,2026-09-26,Rep_10
+3091,2066,Opportunity_091,Qualification,604790.46,2026-09-28,Rep_1
+3092,2025,Opportunity_092,Closed Won,904686.73,2026-09-30,Rep_2
+3093,2073,Opportunity_093,Negotiation,989293.06,2026-10-02,Rep_3
+3094,2022,Opportunity_094,Negotiation,745919.29,2026-10-04,Rep_4
+3095,2004,Opportunity_095,Proposal,74336.55,2026-10-06,Rep_5
+3096,2026,Opportunity_096,Closed Lost,407564.43,2026-10-08,Rep_6
+3097,2058,Opportunity_097,Closed Lost,839447.48,2026-10-10,Rep_7
+3098,2029,Opportunity_098,Qualification,238263.5,2026-10-12,Rep_8
+3099,2098,Opportunity_099,Negotiation,832336.09,2026-10-14,Rep_9
+3100,2087,Opportunity_100,Proposal,129135.37,2026-10-16,Rep_10
